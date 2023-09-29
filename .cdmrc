@@ -1,1 +1,3 @@
 tabs: ['script.swift']
+run-button: "swiftc script.swfit && ./script"
+terminals: ["swiftc script.swfit && ./script"]
